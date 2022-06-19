@@ -2,6 +2,10 @@
   "name": "ts_mongoose",
   "version": "1.0.0",
   "description": "TypeScript mongoose",
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/pedramcode/typescript-backend.git"
+  },
   "main": "server.js",
   "scripts": {
     "dev": "ts-node ./src/server.ts",
